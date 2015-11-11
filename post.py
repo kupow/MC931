@@ -6,15 +6,14 @@ import sys
 # init
 url = 'http://www.lca.ic.unicamp.br:8000/'
 login = 'ra116470'
-pw = '' #pw found: acVefvivyeabta
+pw = '' # password (you can give already found characters in the pw var initialization)
 n = 3 #show top n characters in each iteration
 characters = string.letters + string.digits # all characters to iterate over
-iterations = 3 # number of iterations done until the next character is found
+iterations = 15 # number of iterations done until the next character is found
 count_chars = {} # dict to count how many times a character has been the one that 
                  # took the most time
 
-# Iterate over remaining characters until password is found
-# (you can give already found characters in the pw var initialization)
+# Iterate over remaining characters to be found until password is found
 for k in range(16 - len(pw)):
   # reset count_chars dict
   for c in characters:

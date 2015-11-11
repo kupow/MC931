@@ -1,0 +1,365 @@
+   char a took the most time: 0.4300s
+   char a took the most time: 0.2619s
+   char a took the most time: 0.2584s
+   char a took the most time: 0.2693s
+   char a took the most time: 0.3974s
+   char a took the most time: 0.2587s
+   char a took the most time: 0.3430s
+   char a took the most time: 0.2589s
+   char a took the most time: 0.2595s
+   char a took the most time: 0.2563s
+   char a took the most time: 0.2540s
+   char a took the most time: 0.2546s
+   char a took the most time: 0.2545s
+   char a took the most time: 0.2537s
+   char a took the most time: 0.2620s
+   char a took the most time: 0.2593s
+   char a took the most time: 0.2600s
+top 3 characters (times won iteration)
+'a': 17
+'1': 0
+'0': 0
+----- || Finished iteration to find char || -----
+   char that took longer to find: a
+   password so far : a
+   char c took the most time: 0.4595s
+   char c took the most time: 0.4572s
+   char c took the most time: 0.4616s
+   char c took the most time: 0.4797s
+   char L took the most time: 0.4737s
+   char c took the most time: 0.4600s
+   char c took the most time: 0.4598s
+   char L took the most time: 0.5505s
+   char c took the most time: 0.6136s
+   char L took the most time: 0.5690s
+   char c took the most time: 0.5672s
+   char c took the most time: 0.4650s
+   char L took the most time: 0.6439s
+   char L took the most time: 0.5106s
+   char c took the most time: 0.4633s
+   char L took the most time: 0.5342s
+   char c took the most time: 0.5294s
+top 3 characters (times won iteration)
+'c': 11
+'L': 6
+'1': 0
+----- || Finished iteration to find char || -----
+   char that took longer to find: c
+   password so far : ac
+   char S took the most time: 0.8344s
+   char V took the most time: 0.9950s
+   char V took the most time: 0.6690s
+   char 4 took the most time: 0.7169s
+   char P took the most time: 0.7480s
+   char V took the most time: 0.7582s
+   char 7 took the most time: 0.7315s
+   char V took the most time: 0.7603s
+   char 8 took the most time: 0.8146s
+   char D took the most time: 0.7952s
+   char 4 took the most time: 0.6737s
+   char V took the most time: 0.8077s
+   char n took the most time: 0.6978s
+   char 3 took the most time: 0.8278s
+   char V took the most time: 1.0122s
+   char V took the most time: 0.8256s
+   char V took the most time: 1.0186s
+top 3 characters (times won iteration)
+'V': 8
+'4': 2
+'3': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: V
+   password so far : acV
+   char i took the most time: 1.0841s
+   char e took the most time: 0.8606s
+   char e took the most time: 0.8590s
+   char e took the most time: 0.8671s
+   char e took the most time: 0.8747s
+   char e took the most time: 0.8833s
+   char e took the most time: 0.8566s
+   char e took the most time: 0.8649s
+   char e took the most time: 0.8671s
+   char e took the most time: 0.8788s
+   char e took the most time: 0.8565s
+   char e took the most time: 0.8633s
+   char e took the most time: 0.8635s
+   char e took the most time: 0.8605s
+   char e took the most time: 0.8647s
+   char e took the most time: 0.8668s
+   char e took the most time: 0.8630s
+top 3 characters (times won iteration)
+'e': 16
+'i': 1
+'1': 0
+----- || Finished iteration to find char || -----
+   char that took longer to find: e
+   password so far : acVe
+   char f took the most time: 1.0562s
+   char f took the most time: 1.0672s
+   char f took the most time: 1.0788s
+   char f took the most time: 1.0657s
+   char f took the most time: 1.0889s
+   char f took the most time: 1.0613s
+   char f took the most time: 1.0570s
+   char f took the most time: 1.0578s
+   char f took the most time: 1.0611s
+   char f took the most time: 1.0724s
+   char f took the most time: 1.0589s
+   char f took the most time: 1.0587s
+   char f took the most time: 1.0622s
+   char f took the most time: 1.0683s
+   char f took the most time: 1.0627s
+   char f took the most time: 1.0620s
+   char f took the most time: 1.0753s
+top 3 characters (times won iteration)
+'f': 17
+'1': 0
+'0': 0
+----- || Finished iteration to find char || -----
+   char that took longer to find: f
+   password so far : acVef
+   char v took the most time: 1.2748s
+   char v took the most time: 1.2726s
+   char v took the most time: 1.2673s
+   char v took the most time: 1.2998s
+   char v took the most time: 1.2653s
+   char v took the most time: 1.2686s
+   char v took the most time: 1.2649s
+   char v took the most time: 1.2946s
+   char v took the most time: 1.2717s
+   char v took the most time: 1.2723s
+   char v took the most time: 1.2741s
+   char v took the most time: 1.5723s
+   char U took the most time: 1.5564s
+   char 1 took the most time: 1.6020s
+   char I took the most time: 1.5948s
+   char R took the most time: 1.4864s
+   char d took the most time: 1.6277s
+top 3 characters (times won iteration)
+'v': 12
+'1': 1
+'I': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: v
+   password so far : acVefv
+   char i took the most time: 1.9066s
+   char i took the most time: 1.8297s
+   char V took the most time: 2.0949s
+   char i took the most time: 1.8531s
+   char i took the most time: 1.8061s
+   char F took the most time: 1.7445s
+   char l took the most time: 1.7469s
+   char q took the most time: 1.7858s
+   char Q took the most time: 1.7319s
+   char i took the most time: 1.7457s
+   char J took the most time: 1.6788s
+   char i took the most time: 1.8031s
+   char n took the most time: 1.6817s
+   char L took the most time: 1.6878s
+   char w took the most time: 1.7355s
+   char f took the most time: 1.7195s
+   char i took the most time: 1.9283s
+top 3 characters (times won iteration)
+'i': 7
+'F': 1
+'J': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: i
+   password so far : acVefvi
+   char v took the most time: 2.0596s
+   char p took the most time: 2.0091s
+   char c took the most time: 1.9933s
+   char g took the most time: 1.9279s
+   char 5 took the most time: 1.9677s
+   char Q took the most time: 1.8939s
+   char 7 took the most time: 3.9280s
+   char v took the most time: 1.9927s
+   char m took the most time: 1.8884s
+   char v took the most time: 2.0165s
+   char j took the most time: 1.9628s
+   char K took the most time: 1.9662s
+   char X took the most time: 1.9896s
+   char v took the most time: 1.9596s
+   char v took the most time: 2.1168s
+   char I took the most time: 1.9451s
+   char t took the most time: 1.9285s
+top 3 characters (times won iteration)
+'v': 5
+'5': 1
+'7': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: v
+   password so far : acVefviv
+   char y took the most time: 2.3911s
+   char y took the most time: 2.2796s
+   char y took the most time: 2.4572s
+   char 6 took the most time: 2.5328s
+   char u took the most time: 2.6173s
+   char q took the most time: 2.3817s
+   char O took the most time: 2.3913s
+   char p took the most time: 2.2036s
+   char W took the most time: 2.4640s
+   char y took the most time: 2.4343s
+   char F took the most time: 2.2839s
+   char c took the most time: 2.2842s
+   char R took the most time: 2.3822s
+top 3 characters (times won iteration)
+'y': 4
+'6': 1
+'F': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: y
+   password so far : acVefvivy
+   char T took the most time: 2.4001s
+   char e took the most time: 2.7202s
+   char 6 took the most time: 2.5711s
+   char d took the most time: 2.5541s
+   char e took the most time: 2.8265s
+   char T took the most time: 2.5655s
+   char i took the most time: 2.5903s
+   char c took the most time: 2.7214s
+   char m took the most time: 3.2918s
+   char e took the most time: 3.5429s
+   char b took the most time: 2.3211s
+   char e took the most time: 2.4578s
+   char e took the most time: 2.5953s
+top 3 characters (times won iteration)
+'e': 5
+'T': 2
+'6': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: e
+   password so far : acVefvivye
+   char s took the most time: 2.6578s
+   char a took the most time: 2.7443s
+   char a took the most time: 2.8415s
+   char f took the most time: 2.5896s
+   char q took the most time: 2.6464s
+   char a took the most time: 2.9602s
+   char 0 took the most time: 2.5909s
+   char a took the most time: 2.7294s
+   char S took the most time: 3.6046s
+   char Q took the most time: 3.6270s
+   char U took the most time: 3.7165s
+   char a took the most time: 2.7508s
+   char a took the most time: 3.7784s
+top 3 characters (times won iteration)
+'a': 6
+'0': 1
+'Q': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: a
+   password so far : acVefvivyea
+   char q took the most time: 3.7581s
+   char 9 took the most time: 3.7628s
+   char j took the most time: 3.9460s
+   char I took the most time: 3.8111s
+   char S took the most time: 4.0202s
+   char 5 took the most time: 3.8213s
+   char b took the most time: 3.8698s
+   char b took the most time: 2.9836s
+   char b took the most time: 3.0243s
+   char b took the most time: 2.4849s
+   char b took the most time: 2.5024s
+   char b took the most time: 2.4814s
+   char b took the most time: 2.4790s
+   char b took the most time: 2.4815s
+   char b took the most time: 2.4706s
+top 3 characters (times won iteration)
+'b': 9
+'5': 1
+'9': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: b
+   password so far : acVefvivyeab
+   char t took the most time: 2.6863s
+   char t took the most time: 2.6904s
+   char t took the most time: 2.6821s
+   char t took the most time: 2.6813s
+   char t took the most time: 2.7059s
+   char t took the most time: 2.7410s
+   char t took the most time: 2.6684s
+   char t took the most time: 2.6968s
+   char 1 took the most time: 3.0837s
+   char t took the most time: 2.6833s
+   char g took the most time: 3.3073s
+   char E took the most time: 2.7529s
+   char t took the most time: 2.7054s
+   char t took the most time: 2.6744s
+   char 5 took the most time: 3.1684s
+top 3 characters (times won iteration)
+'t': 11
+'1': 1
+'5': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: t
+   password so far : acVefvivyeabt
+   char a took the most time: 3.6941s
+   char a took the most time: 2.8984s
+   char a took the most time: 2.8823s
+   char a took the most time: 2.8926s
+   char a took the most time: 2.8854s
+   char a took the most time: 2.9282s
+   char a took the most time: 2.8906s
+   char a took the most time: 2.8921s
+   char a took the most time: 2.8836s
+   char a took the most time: 2.8814s
+   char a took the most time: 2.8598s
+   char a took the most time: 2.9084s
+   char a took the most time: 2.8705s
+   char a took the most time: 2.9362s
+   char a took the most time: 2.8853s
+top 3 characters (times won iteration)
+'a': 15
+'1': 0
+'0': 0
+----- || Finished iteration to find char || -----
+   char that took longer to find: a
+   password so far : acVefvivyeabta
+   char y took the most time: 3.0875s
+   char y took the most time: 3.0934s
+   char y took the most time: 3.1417s
+   char y took the most time: 3.0991s
+   char y took the most time: 3.1179s
+   char y took the most time: 3.0917s
+   char 3 took the most time: 4.2175s
+   char c took the most time: 3.9005s
+   char y took the most time: 3.1237s
+   char y took the most time: 3.0999s
+   char y took the most time: 3.0923s
+   char y took the most time: 3.1143s
+   char y took the most time: 3.1112s
+   char y took the most time: 3.0682s
+   char y took the most time: 3.1309s
+top 3 characters (times won iteration)
+'y': 13
+'3': 1
+'c': 1
+----- || Finished iteration to find char || -----
+   char that took longer to find: y
+   password so far : acVefvivyeabtay
+   char g took the most time: 3.4497s
+   char O took the most time: 3.4770s
+   char O took the most time: 3.4889s
+   char g took the most time: 3.4668s
+   char g took the most time: 3.4595s
+   char O took the most time: 3.4593s
+   char O took the most time: 3.4645s
+   char g took the most time: 3.4434s
+   char g took the most time: 3.4602s
+   char g took the most time: 3.4605s
+   char g took the most time: 3.4373s
+   char g took the most time: 3.4525s
+   char g took the most time: 3.4195s
+   char g took the most time: 3.4284s
+   char g took the most time: 3.4782s
+top 3 characters (times won iteration)
+'g': 11
+'O': 4
+'1': 0
+----- || Finished iteration to find char || -----
+   char that took longer to find: g
+   password so far : acVefvivyeabtayg
+password found: acVefvivyeabtayg
+
+
